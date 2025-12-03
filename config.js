@@ -50,7 +50,7 @@ const WEDDING_CONFIG = {
     groomSide: {
       avatar: "assets/g1.jpg",
       name: " Lê Đăng",
-      parents: "Bố: Lê Thanh Tùng n<br>Mẹ: Vũ Kim Huế ",
+      parents: "Bố: Lê Thanh Tùng<br>Mẹ: Vũ Kim Huế ",
       address: "Địa chỉ: Thôn Hồ Sen - xã Thác Bà ( xã Bạch Hà cũ ) - tỉnh Lào Cai "
     },
     brideSide: {
