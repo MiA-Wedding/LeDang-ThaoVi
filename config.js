@@ -7,7 +7,7 @@ const WEDDING_CONFIG = {
   groomName: "Lê Đăng ",
   brideName: "Thảo Vi",
 
-  weddingDate: "12/26/2025  16:00:00",
+  weddingDate: "12/26/2025  17:00:00",
   location: "📍 Tại Trường mầm non xã Vĩnh Kiên, Thôn Đa Cốc- xã Thác Bà ( xã Vĩnh Kiên cũ ) - tỉnh Lào Cai ",
 
   // link mở ngoài (mở app Google Maps trên điện thoại)
